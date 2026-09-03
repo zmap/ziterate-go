@@ -12,7 +12,7 @@ import (
 	"strconv"
 	"strings"
 
-	"github.com/zmap/ziterate"
+	"github.com/zmap/ziterate-go"
 )
 
 func main() {
